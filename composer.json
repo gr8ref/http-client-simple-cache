@@ -1,5 +1,5 @@
 {
-    "name": "rumi55/http-client-simple-cache",
+    "name": "gr8ref/http-client-simple-cache",
     "description": "Guzzle-based HTTP Client with the ability to customize caching of the processed HTTP request results (not based on HTTP headers).",
     "type": "library",
     "license": "MIT",
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "rumi55\\HttpClient\\": "src/"
+            "gr8ref\\HttpClient\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "rumi55\\HttpClient\\Tests\\": "tests/"
+            "gr8ref\\HttpClient\\Tests\\": "tests/"
         }
     },
     "suggest": {

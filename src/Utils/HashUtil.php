@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace rumi55\HttpClient\Utils;
+namespace gr8ref\HttpClient\Utils;
 
 use Psr\Http\Message\RequestInterface;
 

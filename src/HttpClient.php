@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace rumi55\HttpClient;
+namespace gr8ref\HttpClient;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ConnectException;
 use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\HandlerStack;
 use GuzzleHttp\Middleware;
-use rumi55\HttpClient\Utils\HashUtil;
+use gr8ref\HttpClient\Utils\HashUtil;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
 use Psr\SimpleCache\CacheInterface;
